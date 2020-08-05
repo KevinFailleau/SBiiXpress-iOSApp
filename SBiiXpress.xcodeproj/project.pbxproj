@@ -57,7 +57,7 @@
 		0A16C9C91E3A11D300A6532E /* SBiiXpressUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SBiiXpressUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0A16C9CD1E3A11D300A6532E /* SBiiXpressUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SBiiXpressUITests.m; sourceTree = "<group>"; };
 		0A16C9CF1E3A11D300A6532E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		0A16C9DB1E3A120400A6532E /* banniere.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = banniere.png; path = ../../../Ressources/banniere.png; sourceTree = "<group>"; };
+		0A16C9DB1E3A120400A6532E /* banniere.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = banniere.png; path = ../Ressources/banniere.png; sourceTree = "<group>"; };
 		0A16C9DD1E3A121200A6532E /* MainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
 		0A16C9DE1E3A121200A6532E /* MainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainViewController.m; sourceTree = "<group>"; };
 		0A4433581E3A16D100200081 /* ContactViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ContactViewController.h; sourceTree = "<group>"; };
@@ -65,7 +65,7 @@
 		0A44335C1E3A1CB300200081 /* MessageUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MessageUI.framework; path = System/Library/Frameworks/MessageUI.framework; sourceTree = SDKROOT; };
 		0A4433611E3A36DC00200081 /* MenuTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MenuTableViewController.h; sourceTree = "<group>"; };
 		0A4433621E3A36DC00200081 /* MenuTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MenuTableViewController.m; sourceTree = "<group>"; };
-		0AD445771E4868B500A6FE09 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Icon.png; path = "../../../Ressources/Icônes/Icon.png"; sourceTree = "<group>"; };
+		0AD445771E4868B500A6FE09 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Icon.png; path = "../Ressources/Icônes/Icon.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
